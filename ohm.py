@@ -1,7 +1,6 @@
 import streamlit as st
 import math
 import plotly.graph_objects as go
-import pandas as pd
 
 st.title('Calculadora de Ley de Ohm en Corriente Alterna')
 
